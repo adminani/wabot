@@ -4,3 +4,4 @@ git is open source
 git is one of the popular
 ansible is easy to learn
 kubernetes is container
+argo cd is kubernetes
